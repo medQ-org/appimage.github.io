@@ -7,7 +7,7 @@
   "license": "ISC",
   "dependencies": {
     "audiomoth-hid": "*",
-    "bootstrap": "3.3.7",
+    "bootstrap": "5.0.0",
     "jsonschema": "1.1.1",
     "strftime": "0.10.0",
     "electron-debug": "1.1.0"
