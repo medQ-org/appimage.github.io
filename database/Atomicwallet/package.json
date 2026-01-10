@@ -43,7 +43,7 @@
     "electron-google-analytics": "^0.1.0",
     "electron-log": "^2.2.13",
     "electron-unhandled": "^1.1.0",
-    "elliptic": "=6.3.3",
+    "elliptic": "=6.6.1",
     "eosjs": "=20.0.0-beta3",
     "eosjs-cluster": "=1.4.2",
     "eosjs-ecc": "^4.0.4",
